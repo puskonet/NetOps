@@ -1,0 +1,15 @@
+E:/NetOps/flutter_application_1/build/windows/x64/runner/Debug/data/icudtl.dat
+E:/NetOps/flutter_application_1/build/windows/x64/runner/Debug/flutter_windows.dll
+E:/NetOps/flutter_application_1/build/windows/x64/runner/Debug/connectivity_plus_plugin.dll
+E:/NetOps/flutter_application_1/build/windows/x64/runner/Debug/file_selector_windows_plugin.dll
+E:/NetOps/flutter_application_1/build/windows/x64/runner/Debug/geolocator_windows_plugin.dll
+E:/NetOps/flutter_application_1/build/windows/x64/runner/Debug/sqlite3.x64.windows.dll
+E:/NetOps/flutter_application_1/build/windows/x64/runner/Debug/data/flutter_assets/AssetManifest.bin
+E:/NetOps/flutter_application_1/build/windows/x64/runner/Debug/data/flutter_assets/assets/images/puskonet.png
+E:/NetOps/flutter_application_1/build/windows/x64/runner/Debug/data/flutter_assets/FontManifest.json
+E:/NetOps/flutter_application_1/build/windows/x64/runner/Debug/data/flutter_assets/fonts/MaterialIcons-Regular.otf
+E:/NetOps/flutter_application_1/build/windows/x64/runner/Debug/data/flutter_assets/kernel_blob.bin
+E:/NetOps/flutter_application_1/build/windows/x64/runner/Debug/data/flutter_assets/NativeAssetsManifest.json
+E:/NetOps/flutter_application_1/build/windows/x64/runner/Debug/data/flutter_assets/NOTICES.Z
+E:/NetOps/flutter_application_1/build/windows/x64/runner/Debug/data/flutter_assets/shaders/ink_sparkle.frag
+E:/NetOps/flutter_application_1/build/windows/x64/runner/Debug/data/flutter_assets/shaders/stretch_effect.frag

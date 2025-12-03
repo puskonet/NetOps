@@ -1,0 +1,49 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "E:/NetOps/flutter_application_1/build/windows/x64/_deps/nuget-subbuild/CMakeFiles/nuget-populate"
+		},
+		{
+			"file" : "E:/NetOps/flutter_application_1/build/windows/x64/_deps/nuget-subbuild/CMakeFiles/67ade49527efe7a8c9b6e43182a08359/nuget-populate.rule"
+		},
+		{
+			"file" : "E:/NetOps/flutter_application_1/build/windows/x64/_deps/nuget-subbuild/CMakeFiles/a56a95f51ea07cf3fd94761eb12d4424/nuget-populate-complete.rule"
+		},
+		{
+			"file" : "E:/NetOps/flutter_application_1/build/windows/x64/_deps/nuget-subbuild/CMakeFiles/3f657cc19eb201e2244adfa3ad5f825b/nuget-populate-build.rule"
+		},
+		{
+			"file" : "E:/NetOps/flutter_application_1/build/windows/x64/_deps/nuget-subbuild/CMakeFiles/3f657cc19eb201e2244adfa3ad5f825b/nuget-populate-configure.rule"
+		},
+		{
+			"file" : "E:/NetOps/flutter_application_1/build/windows/x64/_deps/nuget-subbuild/CMakeFiles/3f657cc19eb201e2244adfa3ad5f825b/nuget-populate-copyfile.rule"
+		},
+		{
+			"file" : "E:/NetOps/flutter_application_1/build/windows/x64/_deps/nuget-subbuild/CMakeFiles/3f657cc19eb201e2244adfa3ad5f825b/nuget-populate-download.rule"
+		},
+		{
+			"file" : "E:/NetOps/flutter_application_1/build/windows/x64/_deps/nuget-subbuild/CMakeFiles/3f657cc19eb201e2244adfa3ad5f825b/nuget-populate-install.rule"
+		},
+		{
+			"file" : "E:/NetOps/flutter_application_1/build/windows/x64/_deps/nuget-subbuild/CMakeFiles/3f657cc19eb201e2244adfa3ad5f825b/nuget-populate-mkdir.rule"
+		},
+		{
+			"file" : "E:/NetOps/flutter_application_1/build/windows/x64/_deps/nuget-subbuild/CMakeFiles/3f657cc19eb201e2244adfa3ad5f825b/nuget-populate-patch.rule"
+		},
+		{
+			"file" : "E:/NetOps/flutter_application_1/build/windows/x64/_deps/nuget-subbuild/CMakeFiles/3f657cc19eb201e2244adfa3ad5f825b/nuget-populate-test.rule"
+		},
+		{
+			"file" : "E:/NetOps/flutter_application_1/build/windows/x64/_deps/nuget-subbuild/CMakeFiles/3f657cc19eb201e2244adfa3ad5f825b/nuget-populate-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"nuget-populate"
+		],
+		"name" : "nuget-populate"
+	}
+}
